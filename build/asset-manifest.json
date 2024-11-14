@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8e70ea13.css",
-    "main.js": "/static/js/main.43733c32.js",
+    "main.js": "/static/js/main.016f2717.js",
     "static/css/487.bb36206c.chunk.css": "/static/css/487.bb36206c.chunk.css",
     "static/js/487.7ae187c0.chunk.js": "/static/js/487.7ae187c0.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
@@ -9,7 +9,7 @@
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/hotelMezbanLogo.png": "/static/media/hotelMezbanLogo.d532f0a858a0c47887c6.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
-    "static/media/resume.pdf": "/static/media/resume.0494ba98b1046573e196.pdf",
+    "static/media/resume.pdf": "/static/media/resume.a6cd63068c0c45840dde.pdf",
     "static/media/vshftLogo.png": "/static/media/vshftLogo.b971aefe2a322b86de95.png",
     "static/media/glxLogo.png": "/static/media/glxLogo.168c5e81864ffd4ec59c.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
@@ -29,7 +29,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.8e70ea13.css.map": "/static/css/main.8e70ea13.css.map",
-    "main.43733c32.js.map": "/static/js/main.43733c32.js.map",
+    "main.016f2717.js.map": "/static/js/main.016f2717.js.map",
     "487.bb36206c.chunk.css.map": "/static/css/487.bb36206c.chunk.css.map",
     "487.7ae187c0.chunk.js.map": "/static/js/487.7ae187c0.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
@@ -37,6 +37,6 @@
   },
   "entrypoints": [
     "static/css/main.8e70ea13.css",
-    "static/js/main.43733c32.js"
+    "static/js/main.016f2717.js"
   ]
 }
